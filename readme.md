@@ -1,4 +1,8 @@
 # Code Description
+This is code demo of paper: 
+
+**Provably-Stable Neural Network-Based Control of Nonlinear
+Systems**
 
 ## Simulation Study
 data collection:
@@ -44,7 +48,8 @@ Converting pytorch model to nnox format, using following code:
 
     tranfer_matlab.py
 
-## Citation
+## Cite:
+Feel feel to cite our paper if you use our paper/code:
 
     @article{LI2024109252,
     title = {Provably-stable neural network-based control of nonlinear systems},
