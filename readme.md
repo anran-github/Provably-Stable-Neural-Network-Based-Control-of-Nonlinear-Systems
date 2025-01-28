@@ -1,8 +1,9 @@
 # Code Description
 This is code demo of paper: 
 
-**Provably-Stable Neural Network-Based Control of Nonlinear
-Systems**
+[**Provably-Stable Neural Network-Based Control of Nonlinear
+Systems.**](https://www.sciencedirect.com/science/article/pii/S0952197624014106)
+
 
 ## Simulation Study
 data collection:
